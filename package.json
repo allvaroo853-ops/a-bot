@@ -1,0 +1,14 @@
+{
+  "name": "a-bot",
+  "version": "1.4.0",
+  "description": "WhatsApp Bot by Varo",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.6"
+  }
+}
